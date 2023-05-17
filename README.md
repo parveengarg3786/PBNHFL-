@@ -5,6 +5,12 @@ http://mkto-k0023.com/dc/5w4dZQ4HH6-8aj1DCgc3u9vYtrgywd1eUxD2vj1MTEGf_y395O4_4sx
 https://pnbhousingfinance--loscrmdemo.sandbox.my.salesforce.com/?ec=301&startURL=%2Fvisualforce%2Fsession%3Furl%3Dhttps%253A%252F%252Fpnbhousingfinance--loscrmdemo.sandbox.lightning.force.com%252Flightning%252Fr%252FPayment_History__c%252Fa0Q9H000004HV0aUAG%252Fview
 
 
+https://pnbhousingfinance--pnbhflqa.sandbox.lightning.force.com/
+Username: praveen.g@techmatrixconsulting.pnbqa
+Security token (case-sensitive): 0O3ANNOD52Lu4bFS7Bnvb6DEZ
+
+QWERasdf1234
+
 1V5ZSmIzsURAYLittUGrf5V5e
 
 Hi,
