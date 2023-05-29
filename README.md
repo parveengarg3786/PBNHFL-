@@ -6,6 +6,7 @@ https://pam.pnbhfl.com/PasswordVault/v10/logon?returnUrl=%2F
 UAT URL - https://pnbhousingfinance--uat.sandbox.lightning.force.com/lightning
 username - praveen.g@techmatrixconsulting.com.uat
 password - QWERasdf1234
+security Token - FI9eQOAryggSTUftfTMPNIPnx
 
 QA URL - https://pnbhousingfinance--pnbhflqa.sandbox.lightning.force.com/
 username - praveen.g@techmatrixconsulting.pnbqa
