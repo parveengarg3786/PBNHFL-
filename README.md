@@ -12,6 +12,20 @@ QA URL - https://pnbhousingfinance--pnbhflqa.sandbox.lightning.force.com/
 username - praveen.g@techmatrixconsulting.pnbqa
 password - QWERasdf1234
 
+public static boolean containsOnlyAlphabets(String input) {
+
+        // Regular expression to match alphabets only
+
+        String regex = "^[a-zA-Z]+$";
+
+
+        // Check if the input string matches the regular expression
+
+        return input.matches(regex);
+
+    }
+
+
 http://mkto-k0023.com/dc/5w4dZQ4HH6-8aj1DCgc3u9vYtrgywd1eUxD2vj1MTEGf_y395O4_4sxM29-hnjTajbtq4_19QZkqnYh-UBjqLh3ViiR4d2qDydzriou3MyrMf2vZ4EBW0Uh9nkRp6-qsOOmhebP8CVSxKwHANlODKw==/MzQ3LUlBVC02NzcAAAGLmQ7f4poPi-SzdjZ9Z3zygLwrrBbwlByle2bF96yKoCDXFZM02_BAPAGoAT5LfqAeeg2KqyU=
 
 https://pnbhousingfinance--loscrmdemo.sandbox.my.salesforce.com/?ec=301&startURL=%2Fvisualforce%2Fsession%3Furl%3Dhttps%253A%252F%252Fpnbhousingfinance--loscrmdemo.sandbox.lightning.force.com%252Flightning%252Fr%252FPayment_History__c%252Fa0Q9H000004HV0aUAG%252Fview
