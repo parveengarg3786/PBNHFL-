@@ -12,6 +12,32 @@ QA URL - https://pnbhousingfinance--pnbhflqa.sandbox.lightning.force.com/
 username - praveen.g@techmatrixconsulting.pnbqa
 password - QWERasdf1234
 
+
+
+public static boolean containsValidPhoneNumbers(String input) {
+
+        // Regular expression to match valid phone numbers
+
+        String regex = "\\b[6-9][0-9]{9}\\b";
+
+
+        // Create a Pattern object with the regular expression
+
+        Pattern pattern = Pattern.compile(regex);
+
+
+        // Create a Matcher object with the input string
+
+        Matcher matcher = pattern.matcher(input);
+
+
+        // Check if the input string contains any valid phone numbers
+
+        return matcher.find();
+
+    }
+
+
 public static boolean containsOnlyAlphabets(String input) {
 
         // Regular expression to match alphabets only
