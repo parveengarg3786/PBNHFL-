@@ -1,5 +1,8 @@
 # PBNHFL-
 
+failed to release the resource in tSalesforceOutput_2 :DisbursementDetailsTrigger: execution of AfterInsert
+
+caused by: System.DmlException: Insert failed. First exception on row 45; first error: FIELD_INTEGRITY_EXCEPTION, The Apex class "MilestoneTimeCalculator" for calculating milestone time trigger throws an error: Too many SOQL queries: 101: []
 
 https://pam.pnbhfl.com/PasswordVault/v10/logon?returnUrl=%2F
 
