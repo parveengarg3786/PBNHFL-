@@ -1,5 +1,51 @@
 # PBNHFL-
 
+
+Please push the data for these cifid’s of Vikas Jaitly.
+
+Please push all loanids and deposits against these cifids and other data sessions
+
+Cifid
+
+221684
+
+224138
+
+228446
+
+228445
+
+222271
+
+225589
+
+274527
+
+287157
+
+291969
+
+289443
+
+1575090
+
+1575091
+
+ 
+
+UCIC ID
+
+U082202051706
+
+U082202130378
+
+U082203132613
+
+U082203342973
+
+ 
+
+
 failed to release the resource in tSalesforceOutput_2 :DisbursementDetailsTrigger: execution of AfterInsert
 
 caused by: System.DmlException: Insert failed. First exception on row 45; first error: FIELD_INTEGRITY_EXCEPTION, The Apex class "MilestoneTimeCalculator" for calculating milestone time trigger throws an error: Too many SOQL queries: 101: []
