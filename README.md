@@ -1,6 +1,32 @@
 # PBNHFL-
 
+HOU/DEL/0223/02747
 
+occupational 0 records
+deposit erro bad value Namita Gupta for broker
+
+HOU/MUM/0615/227846 |
+|NHL/MUM/0715/234458 |
+|NHL/VSKP/0616/293338|
+|HOU/THA/1216/335583 |
+|NHL/TRI/1116/329913 |
+|NHL/MUM/0317/365154 |
+|NHL/VRR/0917/427294 |
+|NHL/AGR/0717/414420 |
+|HOU/KOP/0917/427620 |
+|HOU/NAG/0118/484744 |
+|HOU/SRT/0418/518716 |
+|HOU/GHA/0618/541013 |
+|HOU/SRT/0318/511462 |
+|NHL/GHA/0618/545223 |
+|NHL/GHKP/1018/595790|
+|HOU/IND/1118/606246 |
+|NHL/KAR/0119/627415 |
+|NHL/BIK/1218/617827 |
+|HOU/LUC/0419/684465 |
+|NHL/MUM/0219/654679 |
+|HOU/HYD/0319/659999 |
+|NHL/BRVL/0220/777665|
 Please push the data for these cifid’s of Vikas Jaitly.
 
 Please push all loanids and deposits against these cifids and other data sessions
