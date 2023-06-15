@@ -1,3 +1,9 @@
+mudit citrix machine
+username - mudit.saxena
+password - Pa5w0rd@@!
+
+ 
+
 # PBNHFL-
 
 HOU/DEL/0223/02747
